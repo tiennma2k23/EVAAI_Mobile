@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <color android:color="#0E2657"/> <!-- Thay đổi màu nền theo màu chủ đạo -->
+    </item>
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splash_view"
+            android:scaleType="fitCenter"/> <!-- Giữ tỉ lệ ảnh, tránh kéo dài -->
+    </item>
+</layer-list>

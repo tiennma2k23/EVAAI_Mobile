@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#2E865C"/> <!-- Màu nền -->
+    <corners android:radius="20dp"/> <!-- Bo góc tròn -->
+    <stroke android:width="1dp" android:color="#333333"/> <!-- Viền -->
+</shape>
